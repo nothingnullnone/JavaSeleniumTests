@@ -1,0 +1,6 @@
+{
+  "url_main": "https://demoqa.com/",
+  "browser": "Chrome",
+  "options": "--remote-allow-origins=*, --incognito",
+  "time_to_wait": 5
+}

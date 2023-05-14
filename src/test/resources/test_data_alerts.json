@@ -1,0 +1,9 @@
+{
+  "textAlertClicked" : "You clicked a button",
+  "textAlertConfirm" : "Do you confirm action?",
+  "textAlertPrompt" : "Please enter your name",
+  "textLabelOK" : "You selected Ok",
+  "textLabelEntered" : "You entered ",
+  "textMinLength" : 10,
+  "textMaxLength" : 20
+}
